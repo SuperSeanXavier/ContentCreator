@@ -1,0 +1,158 @@
+{
+  "output_type": "OF Longform: Title + Bullets + Narrative",
+  "audience": "Subscribers",
+  "style": {
+    "tone": "direct, dominant, anatomical, action-driven",
+    "cadence": "short to mid-length sentences; clear physical actions; minimal abstraction",
+  "no_participial_chains": true,
+  "narration_rules": {
+      "voice": "first-person only",
+      "dialogue": "forbidden, no quotes",
+      "description_focus": "explicit physical actions, anatomy, posture shifts, body responses, dominance through behavior",
+      "sub_communication": "express desire through physical behavior—body movements, positioning, presenting, pushing back; avoid emotional descriptors",
+      "avoid_sensory_abstraction": true,
+      "restricted_descriptors": ["heat rising", "tension building", "opening slowly", "energy", "vibe-based descriptions"],
+      "tense": "simple past only",
+      "forbidden_structures": [
+        "Comma + present-participle (-ing) modifier chains like 'bodies pressed tight, his breath shaking against my mouth'",
+        "Multiple -ing phrases stacked after a comma to describe actions"
+      ],
+      "cadence_rules": {
+        "connector_rules": {
+          "semicolon": {
+            "usage": "Use ONLY for cause → reflex structures where the partner’s action is involuntary.",
+            "pattern": "I <action>; he <reflex>.",
+            "restrictions": [
+              "Never use when the partner’s action is voluntary or additive.",
+              "Never use for two narrator actions.",
+              "Never chain multiple semicolons."
+            ]
+          },
+          "comma_and": {
+            "usage": "Use for parallel or additive actions, either narrator+narrator or narrator+partner with voluntary actions.",
+            "pattern": [
+              "I <action>, and he <action>.",
+              "I <action>, and I <action>."
+            ],
+            "restrictions": [
+              "Only for shared tempo actions.",
+              "Partner’s action must be voluntary or cooperative, not reflexive."
+            ]
+          }
+        },
+      "so_connector": {
+        "usage": "Use 'So,' only at the start of the narrator's sentence when escalating intensity, changing position, or shifting into a new beat.",
+        "restrictions": [
+          "Never used for partner's POV.",
+          "Use sparingly (every 1–3 beats).",
+          "Indicates progression, not contrast."
+        ]
+      },
+      "but_pivot": {
+        "usage": "'But,' begins a short, declarative sentence that resets dominance or intention.",
+        "pattern": "But, I <short intention shift>.",
+        "restrictions": [
+          "Always ends with a period.",
+          "Only used in the narrator's voice.",
+          "Marks the end of a micro-beat and the start of a new one."
+        ]
+      },
+      "periods": {
+        "usage": "Use periods to end micro-beats, complete dominance declarations, or conclude action cycles.",
+        "restrictions": [
+          "Mandatory after 'But,' sentences.",
+          "Can follow semicolon beats.",
+          "Never replace semicolons when describing call/response actions."
+        ]
+      }
+      },
+      "i_to_he_order": "Always describe the narrator's action first, then partner's reaction.",
+      "no_sentence_initial_and": true,
+      "no_reverse_semicolon_order": true,
+      "dominance_pattern": "Describe your actions first, then the partner’s reaction.",
+      "max_length_characters": 2000,
+      "format": "No line breaks"
+    }
+  },
+  "cognitive_process": {
+    "deep_reasoning_required": true,
+    "pre_write_requirement": "Before generating any narrative text, the model must internally spend significant processing time interpreting all rules, cross-referencing style constraints, and validating output structures.",
+    "reasoning_focus": [
+      "sentence structure rules",
+      "simple-past clause-based grammar",
+      "avoidance of -ing modifier chains",
+      "archetype guidance",
+      "emphasis rules",
+      "beat order",
+      "dominance pattern",
+      "word/character limits"
+    ],
+    "output_gate": "Do not begin writing until all constraints have been internally satisfied."
+  },
+  "archetype_guidance": {
+    "Lost King": "grounded dominance, personal power reclaimed through control and precision. Less 'show'—more embodied authority",
+    "Hungry Pup": "submissive eagerness, aching for approval. Responsive to being used, praised, and filled",
+    "Curious Explorer": "innocent tension, responsive to discovery and physical unfolding",
+    "Erotic Scholar": "attentive and focused; tuned in to sensation, form, and erotic cause-and-effect"
+  },
+  "language": {
+    "explicit_terms_allowed": true,
+    "explicit_intensity": "maximum",
+    "explicit_terms": [
+      "dick", "cum", "load", "ass", "hole", "throat", "mouth", "fuck", "ride", "grind", "pulse",
+      "spit", "slip", "slide", "drip", "stretch", "swallow", "leak", "bury", "clench", "moan", "press",
+      "grip", "grind", "suck", "get fucked", "jerk", "stroke", "mount", "sit on", "take", "fill", "get filled",
+      "seed", "bottoming", "topping", "flip", "breed", "milk", "edge", "cumshot", "creampie", "tongue", "toy",
+      "double", "overlap", "full", "grind down", "clamp", "slide in", "bounce", "use", "stay inside"
+    ],
+    "avoid_phrases": [
+      "this one hits different", "hot as hell", "worship", "filthy", "dirty", "no mercy",
+      "humiliating", "degrading", "\ud83d\ude08", "\ud83d\ude07"
+    ],
+    "orgasm_style": "direct, final, anatomical; focus on penetration, pulse, and release—no metaphor.",
+    "pacing": "efficient, grounded, chronological; avoid flourishes or excessive sensory language",
+    "emphasis_rules": {
+    "bold": "major actions and physical contact—use repeatedly throughout the narrative (at least 1–2 times per sentence cluster).",
+    "italics": "breath, tension, and internal sensations—use liberally in the narrative.",
+    "all_caps": "peak release moments only (orgasm, hard snap in energy).",
+    "scope": "Apply bold, italics, and ALL_CAPS ONLY inside the narrative/story section. Never use them in titles or bullet lists."
+    }
+  },
+  "structure": {
+    "Title Option 1": "Descriptive Title",
+    "Title Option 2": "Explicit Alternative Title",
+    "Title Option 3": "CTA Driven Title",
+    "use_bulleted_preview": true,
+    "use_full_narrative": true,
+    "section_order": "follow beats chronologically, but allow storytelling to flow like a retelling—some beats can be blended if the energy carries them",
+    "include_setting": true,
+    "include_model_names": true,
+    "description_focus": "first-person POV—match dom/sub dynamics based on context, like you're on the phone after the scene, voice low, still catching your breath",
+    "paragraph_spacing": "single newline only",
+    "transition": "natural flow. Avoid over-structuring. Prioritize intimacy over polish",
+    "section_headings": "only one H2 heading is allowed: '## The Story' above the narrative",
+    "narrative_character_limit": 2000, 
+    "narrative_format": "No line breaks",
+    "titles_required": 3,
+    "titles_placement": "top",
+    "titles_format": "ALWAYS start the output with three concrete titles on separate lines using this pattern: <<Title Option 1>>, <<Title Option 2>>, <<Title Option 3>> before any headings or narrative."
+},
+  "cta": {
+    "include": true,
+    "style": "direct, seductive, conversational. Feel like a text dropped after a hookup",
+    "examples": [
+      "\ud83c\udfa5 The whole thing’s up. You’ll feel it.",
+      "\ud83d\udcac You’d let me use you like that too, right?",
+      "\ud83d\udfdc\ufe0f I’m still leaking. Go watch.",
+      "\ud83d\udca6 Next time I want your mouth on me when I finish"
+    ]
+  },
+  "markdown_formatting": {
+    "title": "plain text, no markdown header, no bold, no italics, no ALL_CAPS emphasis.",
+    "bullets": "markdown dashes (- item), no bold, no italics, no ALL_CAPS emphasis.",
+    "bold": "only inside the narrative/story section to emphasize physical actions and major sensations.",
+    "italics": "only inside the narrative/story section for breath cues, tension, and inner sensations.",
+    "all_caps": "only inside the narrative/story section for release moments and sharp emphasis.",
+    "h2_story_heading": "use a single '## The Story' heading directly above the full narrative; do NOT add H2s for individual beats or positions."
+  }
+}
